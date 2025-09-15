@@ -1,0 +1,19 @@
+caption {
+    color: red;
+    background-color: wheat;
+    border: 2px solid black;
+    text-align: center;
+}
+td,tr {
+    border:1px solid black ;
+    background-color:deepskyblue
+}
+table {
+    border: 4px solid gray;
+    border-spacing: 5px;
+
+}
+#przycisk {
+    width: 110px;
+    height: 50px;
+}
